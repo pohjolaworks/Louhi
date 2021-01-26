@@ -8,7 +8,7 @@ Specs:
     Cherry MX Switches, PCB or plate-mount
     Support for multiple bottom layouts
     Uses one pcb-mount stabilizer
-    QMK Compatible
+    QMK and Vial Compatible
 
 ### Plate
 Plate files are located in FR4-Plate folder
