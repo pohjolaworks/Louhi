@@ -12,7 +12,3 @@ Specs:
 
 ### Plate
 Plate files are located in FR4-Plate folder
-
-### Crediting
-You are free to use and modify these files, but if you really like this project,  
-consider donating https://www.paypal.me/erkhal
