@@ -13,5 +13,7 @@ Specs:
     Uses one pcb-mount stabilizer
     QMK and Vial Compatible
 
-### Plate
-Plate files are located in FR4-Plate folder
+## Supported layouts
+![](media/layouts.png)  
+## Plate
+Gasket-mount universal plate files are located in the FR4-Plate folder. Uses 0.75mm thick gasket material on both sides of the plate.
